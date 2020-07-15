@@ -41,13 +41,12 @@
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&style=for-the-badge&logoColor=222222">
 </div>
 <br>
-<br><div style="display:inline-block;">
+<div style="display:inline-block;">
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=Swagger&style=for-the-badge&logoColor=222222">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-269539?logo=Nginx&style=for-the-badge&logoColor=white">
-  
 </div>
 <br>
 <div style="display:inline-block;">
