@@ -12,6 +12,7 @@
 **Talking about Personal Stuffs:**
 
 👨‍💻 24 y.o. Full Stack JavaScript Developer from Ukraine 
+
 🚧 **Current Work in [WebbyLab](https://webbylab.com/)**
 
 **Languages and Tools:**
