@@ -58,3 +58,5 @@
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&style=for-the-badge&logoColor=white">
 </div>
 <br>
+
+![Profile views](https://gpvc.arturio.dev/taruuuch)
