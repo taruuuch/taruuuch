@@ -18,10 +18,10 @@
 **Languages and Tools:**
 
 <div style="display:inline-block;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=222222">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&style=for-the-badge&logoColor=222222">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-NodeJs-339933?logo=Node.js&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=222222">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=Bootstrap&style=for-the-badge&logoColor=white">
@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Gulp-CF4647?logo=Gulp&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&style=for-the-badge&logoColor=222222">
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=Swagger&style=for-the-badge&logoColor=222222">
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=Swagger&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-269539?logo=Nginx&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&style=for-the-badge&logoColor=222222">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=222222">
+  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&style=for-the-badge&logoColor=white">
 </div>
 
