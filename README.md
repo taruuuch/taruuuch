@@ -43,7 +43,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="taruuuch Spotify Playing" width="300" />](https://open.spotify.com/user/taruuuch)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=taruuuch&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=taruuuch&redirect=true)
 
 <br />
 <br />
