@@ -11,7 +11,7 @@
 
 ### **Talking about Personal Stuffs**
 
-👨‍💻 25 y.o. Full Stack JavaScript (Nodejs & React) Developer from Ukraine 
+👨‍💻 26 y.o. Full Stack JavaScript (Nodejs & React) Developer from Ukraine 
 
 ### **Languages and Tools**
 
@@ -35,3 +35,8 @@
 <img alt="Gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
 <img alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taruuuch&langs_count=5&theme=nord)
+
+![taruuuch's GitHub stats](https://github-readme-stats.vercel.app/api?username=taruuuch&show_icons=true&theme=nord)
